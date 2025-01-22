@@ -20,4 +20,5 @@ Caso você esteja utilizando uma máquina virtual (como no meu caso), garanta qu
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./facebook.jpeg "Página de phishing do Facebook")
+![Alt text](./kali.jpeg "Imagem do servdior rodando")
